@@ -33,6 +33,10 @@
     "test": "react-scripts test --json --outputFile=testReport.json",
     "eject": "react-scripts eject"
   },
+  "engines": {
+    "npm": ">=8.0.0 <9.2.0",
+    "node": ">=16.0.0 <16.16.0"
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
